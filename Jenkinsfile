@@ -1,4 +1,4 @@
-node ('nodes1'){
+node ('node1'){
 
   stage("Test")
  {
